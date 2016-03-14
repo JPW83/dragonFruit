@@ -1,0 +1,78 @@
+Initialize engine version: 5.3.3f1 (910d71450a97)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     2103 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\DamoHurd\Documents\dragonfruit\dragonFruit\DragonFruit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\DamoHurd\Documents\dragonfruit\dragonFruit\DragonFruit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\DamoHurd\Documents\dragonfruit\dragonFruit\DragonFruit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\DamoHurd\Documents\dragonfruit\dragonFruit\DragonFruit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\DamoHurd\Documents\dragonfruit\dragonFruit\DragonFruit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\DamoHurd\Documents\dragonfruit\dragonFruit\DragonFruit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\DamoHurd\Documents\dragonfruit\dragonFruit\DragonFruit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\DamoHurd\Documents\dragonfruit\dragonFruit\DragonFruit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.055 seconds
+Platform assembly: C:\Users\DamoHurd\Documents\dragonfruit\dragonFruit\DragonFruit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\DamoHurd\Documents\dragonfruit\dragonFruit\DragonFruit_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.607927 ms
+Heads
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+You WIN!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Heads
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+You LOSE!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Tails
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+You LOSE!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Tails
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+You LOSE!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.278000 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 0.460682 ms (FindLiveObjects: 0.059608 ms CreateObjectMapping: 0.027238 ms MarkObjects: 0.366730 ms  DeleteObjects: 0.006710 ms)
+
+Tails
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+You WIN!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.430920 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 307.
+Total: 1.108085 ms (FindLiveObjects: 0.069082 ms CreateObjectMapping: 0.065924 ms MarkObjects: 0.958867 ms  DeleteObjects: 0.012632 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2630 -> priority: 1 
